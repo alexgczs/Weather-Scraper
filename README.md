@@ -10,10 +10,8 @@ Through web scraping, two datasets are constructed, which are located in the _da
 ## Structure
 
 - **/dataset:** Contains the two datasets detailed in the next section
-    - dataset1.csv
-    - dataset2.csv
-
-- **/images:** Contains the images that accompany this file.
+    - daily_temperature_spain (11-2023).csv
+    - monthly_temperature_spain (1996-2023).csv
 
 - **/Other resources**:
     - CheckSeleniumAgent.ipynb: Jupyter notebook that checks which agent Selenium is using and proposes a method to change it to a specific one.
